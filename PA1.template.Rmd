@@ -1,8 +1,8 @@
 ---
-output:
-  html_document: default
-  pdf_document: default
-  word_document: default
+Project:
+  Name: Aswin
+  Project: Reproducible Research Project 1
+  Date: 06/03/2018
 ---
 COURSERA PROJECT : REPRODUCIBLE RESEARCH
 ===========================================================================
